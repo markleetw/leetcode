@@ -13,6 +13,9 @@ import java.util.Arrays;
  * <p>
  * Note:
  * You may assume the string contains only lowercase alphabets.
+ *
+ * Nice but can be better.
+ * 10ms, 32.91%
  */
 public class MySolution1 {
     public static boolean isAnagram(String s, String t) {

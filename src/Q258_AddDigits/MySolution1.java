@@ -12,6 +12,9 @@ package Q258_AddDigits;
  * <p>
  * Follow up:
  * Could you do it without any loop/recursion in O(1) runtime?
+ *
+ * You need to think carefully.
+ * 2ms, 22.60%
  */
 public class MySolution1 {
     public static int addDigits(int num) {

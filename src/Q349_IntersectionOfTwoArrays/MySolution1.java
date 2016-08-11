@@ -16,6 +16,9 @@ import java.util.stream.Stream;
  * Note:
  * Each element in the result must be unique.
  * The result can be in any order.
+ *
+ * Too slow.
+ * 44ms, 3.98%
  */
 public class MySolution1 {
     public static int[] intersection(int[] nums1, int[] nums2) {

@@ -6,6 +6,9 @@ import static java.util.Arrays.stream;
  * Created by marklee on 8/10/16.
  *
  * filled with zero
+ *
+ * Good job!
+ * 0ms, 87.33%
  */
 public class MySolution2 {
     public static void moveZeroes(int[] nums) {

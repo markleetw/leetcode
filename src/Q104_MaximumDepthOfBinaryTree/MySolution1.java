@@ -7,6 +7,9 @@ package Q104_MaximumDepthOfBinaryTree;
  * <p>
  * The maximum depth is the number of nodes along the longest path from the
  * root node down to the farthest leaf node.
+ *
+ * Nice work.
+ * 1ms, 10.15%
  */
 public class MySolution1 {
     public int maxDepth(TreeNode root) {

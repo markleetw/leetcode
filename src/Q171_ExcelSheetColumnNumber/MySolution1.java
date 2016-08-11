@@ -16,6 +16,7 @@ package Q171_ExcelSheetColumnNumber;
  * AB -> 28
  *
  * Too slow.
+ * 5ms, 6.04%
  */
 public class MySolution1 {
     public static int titleToNumber(String s) {

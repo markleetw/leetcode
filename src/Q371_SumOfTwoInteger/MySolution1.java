@@ -8,6 +8,9 @@ package Q371_SumOfTwoInteger;
  * <p>
  * Example:
  * Given a = 1 and b = 2, return 3.
+ *
+ * Not correct.
+ * 0ms, 7.22%
  */
 public class MySolution1 {
     public static int getSum(int a, int b) {

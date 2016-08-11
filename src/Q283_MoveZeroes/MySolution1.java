@@ -15,7 +15,8 @@ import static java.util.Arrays.stream;
  * You must do this in-place without making a copy of the array.
  * Minimize the total number of operations.
  *
- * swap
+ * Nice but can be better.
+ * 1ms, 24.47%
  */
 public class MySolution1 {
     public static void moveZeroes(int[] nums) {

@@ -6,6 +6,9 @@ package Q100_SameTree;
  * <p>
  * Two binary trees are considered equal if they are structurally identical
  * and the nodes have the same value.
+ *
+ * Couldn't be better.
+ * 0ms, 11.51%
  */
 public class MySolution1 {
     public static boolean isSameTree(TreeNode p, TreeNode q) {

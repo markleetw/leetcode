@@ -9,6 +9,9 @@ package Q237_DeleteNodeInALinkedList;
  * Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third
  * node with value 3, the linked list should become 1 -> 2 -> 4 after calling
  * your function.
+ *
+ * Couldn't be better.
+ * 1ms, 2.65%
  */
 public class MySolution1 {
     public static void deleteNode(ListNode node) {

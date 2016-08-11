@@ -7,6 +7,9 @@ package Q334_ReverseString;
  * <p>
  * Example:
  * Given s = "hello", return "olleh".
+ *
+ * Not good enough.
+ * 5ms, 20.70%
  */
 public class MySolution1 {
     public static String reverseString(String s) {

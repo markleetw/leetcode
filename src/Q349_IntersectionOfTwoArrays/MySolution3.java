@@ -7,6 +7,7 @@ import java.util.Set;
  * Created by marklee on 8/10/16.
  *
  * quick but not easy to read.
+ * 6ms, 56.97%
  */
 public class MySolution3 {
     public static int[] intersection(int[] nums1, int[] nums2) {

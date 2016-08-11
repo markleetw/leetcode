@@ -16,6 +16,9 @@ package Q226_InvertBinaryTree;
  *    7     2
  *   / \   / \
  *  9   6 3   1
+ *
+ *  Good job.
+ *  0ms, 18.60%
  */
 public class MySolution1 {
     public TreeNode invertTree(TreeNode root) {
